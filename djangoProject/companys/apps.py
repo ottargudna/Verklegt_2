@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class JobhunterConfig(AppConfig):
+class CompanysConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'jobhunter'
+    name = 'companys'
